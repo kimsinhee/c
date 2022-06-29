@@ -1,3 +1,0 @@
-﻿  형변환.c
-C:\Users\김신희\source\repos\학원실습\학원실습\형변환.c(8,12): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  학원실습.vcxproj -> C:\Users\김신희\source\repos\학원실습\Debug\학원실습.exe
